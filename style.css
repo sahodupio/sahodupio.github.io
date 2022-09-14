@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+
+.Navigate{
+    background-color: seagreen;
+    color: antiquewhite;
+    font-style: inherit;
+   font-size: 90%;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 1%;
+}
+
+.href{
+    text-align: right;
+    color: antiquewhite;
+    font-size: 120%;
+   
+}
+
+
+
+.REQ{
+    text-align: center;
+    background-color:seagreen;
+    color: antiquewhite;
+    font-style: inherit;
+}
+
+.swiper-slide img{
+    width: 100%;
+}
+
+.Clean{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    font-style: inherit;
+}
+
+.Img{
+    float: left;
+}
+
+.Service{
+    text-align: center;
+    background-color:gainsboro ;
+    color: black;
+    font-style: italic;
+    padding: 4.5%;
+    font-size: 120%;
+   
+}
+
+.Info{
+font-style: inherit;
+ font-size: larger;
+float: right;
+color: black;
+padding: 2%;
+    }
+
+.Opening{
+ font-style: inherit;
+text-align: center;
+font-size: larger;
+color: black;
+padding: 2%;
+
+ }     
+
+ .Copyright{
+    background-color:seagreen;
+    font-style: inherit;
+    text-align: center;
+
+ }
+
+ .body{
+    background-color:
+ }
+
+
+ .About{
+    font-style: inherit;
+    float: right;
+    font-size: larger;
+    padding: 2%;
+    
+
+ }
+
+.Mission{
+    font-style: inherit;
+    font-size: larger;
+    padding: 2%; 
+   
+}
+
+.Partner{
+    font-style: inherit;
+    font-size: 100%;
+    padding: 2%; 
+    font-size: x-large;
+    color: black;
+}
+    
+.Form{
+    font-style: inherit;
+    float: right;
+    font-size: large;
+    padding: 2%;
+}
+
+.Collection{
+    font-style: inherit;
+    padding: 7%;
+    font-size: larger;
+}
+
+.Touch{
+    font-style: inherit;
+    float: right;
+}
+
+.Help{
+    font-style: inherit;
+    text-align: center;
+    padding: 5%;
+}
+
+.Delivery{
+    float: right;
+}
+
+.Pricing{
+    font-style: italic;
+    float: left;
+    padding: 2%;
+  
+}
+.Preposition{
+    font-style: italic;
+   float: right;
+    
+}
+
+.Hov{
+    transition: all 1s;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
